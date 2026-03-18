@@ -10,6 +10,7 @@ I build end-to-end products — from bot logic and REST APIs to interactive web 
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram_3-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -24,6 +25,12 @@ I build end-to-end products — from bot logic and REST APIs to interactive web 
 ---
 
 ## 🚀 Projects
+
+### 🔗 [Shortly — URL Shortener](https://github.com/bukleeff-ux/url-shortener)
+Full-stack URL shortener with click tracking and stats. Custom short codes, copy to clipboard, stats lookup by short code.
+`FastAPI` · `SQLAlchemy 2` · `SQLite` · `React 18` · `Vite`
+
+---
 
 ### 🎰 [Poker Tournament Bot](https://github.com/bukleeff-ux/poker-tournament-bot)
 Telegram bot + Mini App for managing offline poker tournaments. Players register in-app, admins assign results, live leaderboard with automatic point scoring.
@@ -45,5 +52,5 @@ Telegram bot for a PC club: menu, pricing, promotions, referral info and a promo
 
 ## 📫 Contact
 
-- **Telegram:** [@buklee](https://t.me/buklee)
+- **Telegram:** [@Bukllee](https://[t.me/bukllee))
 - **Email:** bukleeff@gmail.com
